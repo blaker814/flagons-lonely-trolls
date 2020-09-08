@@ -32,7 +32,7 @@
       "name": "The Jeffs",
       "dateCreated": 1599249561703,
       "totalScore": 0,
-      "teamSize": 0,
+      "teamSize": 1,
       "id": 5
     },
     {
@@ -60,7 +60,7 @@
       "name": "Olde GReg",
       "dateCreated": 1599508540422,
       "totalScore": 0,
-      "teamSize": 1,
+      "teamSize": 2,
       "id": 9
     }
   ],
@@ -351,6 +351,20 @@
       "countryOrigin": "United States",
       "teamId": "9",
       "id": 41
+    },
+    {
+      "name": "Stu",
+      "lastName": "DaBaker",
+      "countryOrigin": "belgium",
+      "teamId": "9",
+      "id": 42
+    },
+    {
+      "name": "Jeff",
+      "lastName": "Newman",
+      "countryOrigin": "Arkansas",
+      "teamId": "5",
+      "id": 43
     }
   ],
   "scores": []
